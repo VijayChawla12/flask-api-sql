@@ -1,6 +1,8 @@
 # flask-api-sql
 
-Coding exercise: Write a Flask / FastAPI Web API that simulates the behavior of an audio file server while using a MongoDB / SQL database. 
+Coding exercise:
+
+Write a Flask / FastAPI Web API that simulates the behavior of an audio file server while using a MongoDB / SQL database. 
 
 Requirements: You have one of three audio files which structures are defined below
 
